@@ -1,5 +1,5 @@
 .odd {
-    background-color: pink;
+    background-color: rgb(248, 184, 195);
     font-family: Verdana, DejaVu Sans, sans-serif;
 }
 
@@ -8,12 +8,12 @@
 }
 
 #two{
-    color: blue;
+    color: rgb(0, 0, 255);
     font-size: 36px;
 }
 
 #four{
-    background-color: aquamarine;
+    background-color: rgb(104, 250, 148);
     font-size: 24px;
     font-weight: bold;
 }
